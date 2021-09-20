@@ -2,6 +2,7 @@
 ## About application
 - Web app được viết theo mô hình MVC
 - Technical Stack framework: expressjs, view engine: handlebars, databases: MySql
+## Mô tả các tính năng
 # 1. Phân hệ độc giả vãng lai - guest
 ## Hệ thống Menu
 - Hiển thị danh sách chuyên mục(có 2 cấp chuyên mục)
